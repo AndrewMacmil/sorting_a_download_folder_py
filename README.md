@@ -25,7 +25,9 @@ Images: .jpg, .jpeg, .png, .gif
 Games: .exe, .msi
 ZIP: .zip, .rar
 Other: Files with any other extensions
-Setup and Usage
+
+
+SETUP AND USAGE
 Download the Script: Save the Python script file as desktop_folder_sorter.py.
 
 Update the Download Directory: In the script, update the path DOWNLOAD_DIR to the folder you want to monitor:
