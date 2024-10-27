@@ -1,7 +1,8 @@
 # sorting_a_download_folder_py
 Download Folder Sorter
 
-A Python script that automatically organizes files in your Downloads (or Desktop) folder by file type. The script monitors a specified folder (e.g., D:\Download Folder) and automatically moves files into subfolders based on their file extensions (e.g., PDF, Word, Excel, Images, Games, ZIP files).
+A Python script that automatically organizes files in your Downloads (or Desktop) folder by file type. 
+The script monitors a specified folder (e.g., D:\Download Folder) and automatically moves files into subfolders based on their file extensions (e.g., PDF, Word, Excel, Images, Games, ZIP files).
 
 Features
 Automatically sorts files into designated folders based on file extension.
