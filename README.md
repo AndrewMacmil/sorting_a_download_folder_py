@@ -48,7 +48,9 @@ Customization
 You can add or remove file types by modifying the EXTENSIONS dictionary in the script:
 
 python
-Copy code
+
+Copy code:
+
 EXTENSIONS = {
     'Word': ['.doc', '.docx'],
     'Excel': ['.xls', '.xlsx'],
@@ -58,6 +60,9 @@ EXTENSIONS = {
     'ZIP': ['.zip', '.rar'],
     'Other': []
 }
-Troubleshooting
+
+Troubleshooting:
+
 Files Not Moving? Ensure the watchdog library is installed. Run pip install watchdog if necessary.
+
 Wrong Folder? Make sure file extensions are accurately listed under the desired category in EXTENSIONS.
